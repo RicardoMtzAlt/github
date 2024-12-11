@@ -1,4 +1,4 @@
-![Creacion de un repositorio]
+* ![Creacion de un repositorio]
 (https://github.com/mergutm/programacionWeb/blob/main/git/comandos.md)
 ``` bash
 $ git init
