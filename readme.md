@@ -1,3 +1,5 @@
+![Creacion de un repositorio]
+(https://github.com/mergutm/programacionWeb/blob/main/git/comandos.md)
 ``` bash
 $ git init
 ayuda: Usando 'master' como el nombre de la rama inicial. Este nombre de rama predeterminado
